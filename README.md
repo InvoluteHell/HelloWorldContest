@@ -11,7 +11,7 @@ Print "Hello World" without HELLOWORLD
 
 ## 比赛规则
 
-- 要求打印出`Hello World`字样
+- 要求打印出`Hello World`字样，有且仅有`Hello World`
 - 上传的所有代码中，不可以出现 'HELLOWORLD' 中任一字母，包括文件名、文件内容、执行的命令
 - 不限编程语言，可以使用小众编程语言，但不得使用自创的专门针对本比赛的编程语言/编译器/解释器
 - 请使用 ASCII 码进行编程，除此之外不可涉及任何其他编码，转换也不行！
