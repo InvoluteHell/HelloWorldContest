@@ -44,7 +44,7 @@ Print "Hello World" without HELLOWORLD
 
 ### 那我从自己的服务器上读取字符串
 
-没问题！但是还是那句话，网络请求也要好几行代码，注意代码体积和代码中不可以出现 'HELLOWORLD' 中任一字母哦
+没问题！但注意代码体积和代码中不可以出现 'HELLOWORLD' 中任一字母哦
 
 ### 那我找个超级小众的语言，比如`brainfuck`
 
