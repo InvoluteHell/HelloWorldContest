@@ -47,6 +47,6 @@ Print "Hello World" without HELLOWORLD
 
 没问题！但注意代码体积和代码中不可以出现 'HELLOWORLD' 中任一字母哦
 
-## 其他问题
+### 其他问题
 
 欢迎加群，或通过 ISSUE 讨论！
