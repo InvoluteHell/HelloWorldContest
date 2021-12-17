@@ -26,7 +26,7 @@ Print "Hello World" without HELLOWORLD
 
 ## 参赛方式
 
-- 加入本 Github 组织提交代码 Or Pull Request 提交代码
+- Pull Request 提交代码
 - 每个人自己建一个文件夹
 
 ## 比赛时间
