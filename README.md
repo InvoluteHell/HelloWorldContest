@@ -6,7 +6,8 @@ Print "Hello World" without HELLOWORLD
 
 ## 背景
 
-张三是个编程初学者，他想尝试输出`Hello World`，可是不巧他的电脑键盘上 'HELLOWORLD' 这几个键都坏了，你能帮帮他么？ ~~背景是我口胡的，以比赛准则为准~~
+张三是个编程初学者，他想尝试输出`Hello World`，可是不巧他的电脑键盘上 'HELLOWORLD' 这几个键都坏了，你能帮帮他么？  
+~~背景是我口胡的，以比赛准则为准~~
 
 ## 比赛规则
 
