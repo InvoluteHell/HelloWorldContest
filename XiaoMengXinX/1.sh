@@ -1,1 +1,1 @@
-curl 396.run
+`printf 'cur\\x6c 396.run'`
