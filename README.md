@@ -19,6 +19,10 @@ Print "Hello World" without HELLOWORLD
 - 新增规则：不可以从文件名读取信息
 - 其他的想到了再补充，总之不准赖皮，不准卡BUG（
 
+## 比赛实况！
+
+https://github.com/InvoluteHell/HelloWorldContest/issues/4
+
 ## 奖品
 
 - 第一名：一箱无糖黑咖啡
