@@ -9,6 +9,8 @@
 `python stuck.py new.stk` //执行输出
 
 
+总大小应该是`rule.txt`+`114514`  = 10 + 1 = 11 Bytes
+
 
 附件：
 
