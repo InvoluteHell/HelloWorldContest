@@ -1,0 +1,29 @@
+#命令: objdump -D -b binary -mi386 -Maddr16,data16 ~/tmp_code/ASM/hello_world/boot.bin
+#	   1a - 24 为待打印的消息，并非指令。
+${HOME}/tmp_code/ASM/hello_world/boot.bin：     文件格式 binary
+
+
+Disassembly of section .data:
+
+00000000 <.data>:
+   0:	8c c8                	mov    %cs,%ax
+   2:	8e d8                	mov    %ax,%ds
+   4:	8e c0                	mov    %ax,%es
+   6:	b8 1a 7c             	mov    $0x7c1a,%ax
+   9:	89 c5                	mov    %ax,%bp
+   b:	b9 10 00             	mov    $0x10,%cx
+   e:	b8 01 13             	mov    $0x1301,%ax
+  11:	bb 0c 00             	mov    $0xc,%bx
+  14:	b2 00                	mov    $0x0,%dl
+  16:	cd 10                	int    $0x10
+  18:	eb fe                	jmp    0x18
+  1a:	48                   	dec    %ax
+  1b:	65 6c                	gs insb (%dx),%es:(%di)
+  1d:	6c                   	insb   (%dx),%es:(%di)
+  1e:	6f                   	outsw  %ds:(%si),(%dx)
+  1f:	20 57 6f             	and    %dl,0x6f(%bx)
+  22:	72 6c                	jb     0x90
+  24:	64 00 00             	add    %al,%fs:(%bx,%si)
+	...
+ 1fb:	00 00                	add    %al,(%bx,%si)
+ 1fd:	00 55 aa             	add    %dl,-0x56(%di)
