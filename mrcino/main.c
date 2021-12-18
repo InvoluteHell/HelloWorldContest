@@ -1,1 +1,1 @@
-main(){puts((int[]){0x6C6C6548,0x6F57206F,0x00646C72});}
+main(){puts((int[]){0x6C6C6548,0x6F57206F,0x646C72});}
