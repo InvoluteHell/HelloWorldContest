@@ -1,1 +1,1 @@
-cutl g0.gs
+curl g0.gs
