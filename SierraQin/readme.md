@@ -4,13 +4,34 @@
 
 
 
+按顺序1-6是不断摸索的过程~
+
+
+
 ## Arn
 
-另一款小众语言
+另一款小众语言，这个居然也是图灵完备的
 
 https://github.com/ZippyMagician/Arn
 
 在线运行 https://zippymagician.github.io/Arn/
+
+**安装arn并运行arn代码需node环境**
+
+```
+npm install -g arn-language
+arn run .\6.arn
+```
+
+### 6.arn
+
+在5.arn的基础上，使用Arn内置的代码压缩工具（称为[Carn](https://github.com/ZippyMagician/Arn/wiki/Carn)），又压缩掉一个字节！
+
+压缩后的代码在arn的运行环境中仍可正常运行，网页版似乎目前尚未支持运行压缩后的arn代码。
+
+```Arn
+~4o¸Ä
+```
 
 ### 5.arn
 
@@ -22,7 +43,7 @@ https://github.com/ZippyMagician/Arn
 
 ## Stuck
 
-都用小众语言是吧？那俺也来一个Stuck语言，这玩意也是图灵完备的
+都用小众语言是吧？那俺也来一个Stuck语言，这个也是图灵完备的
 
 https://esolangs.org/wiki/Stuck
 
