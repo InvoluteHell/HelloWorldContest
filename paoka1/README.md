@@ -29,6 +29,6 @@ input(("%c"*11)%(72,101,108,108,111,32,87,111,114,108,100))
 感谢[Hagb](https://github.com/Hagb)在群里提出以下优化方案
 
 ```python
-input("\x48\x65\x6c\x6c\x6f \x57\x6f\x72\6c\x64")
+input("\x48\x65\x6c\x6c\x6f \x57\x6f\x72\x6c\x64")
 ```
 
