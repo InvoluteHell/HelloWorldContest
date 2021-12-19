@@ -59,7 +59,7 @@ Print "Hello World" without HELLOWORLD
 | [Hagb](https://github.com/InvoluteHell/HelloWorldContest/tree/master/Hagb) | 11 Bytes  |   Shell    |    从文件名读取信息     |
 | [Hagb](https://github.com/InvoluteHell/HelloWorldContest/blob/master/Hagb) | 27 Bytes  |   Shell    |   使用刚搭建的服务器    |
 | [於随仙](https://github.com/InvoluteHell/HelloWorldContest/blob/master/%E6%96%BC%E9%9A%8F%E4%BB%99) | 30 Bytes  |   MATLAB   |   输出非`Hello World`   |
-| [许兴逸](https://github.com/InvoluteHell/HelloWorldContest/tree/master/%E8%AE%B8%E5%85%B4%E9%80%B8) | 多次参赛  |  多种语言  |      只取最好成绩       |
+| [许兴逸](https://github.com/InvoluteHell/HelloWorldContest/tree/master/%E8%AE%B8%E5%85%B4%E9%80%B8) | 多份提交  |  多种语言  |      只取最好成绩       |
 | [jcjrobert](https://github.com/InvoluteHell/HelloWorldContest/tree/master/jcjrobert) | 59 Bytes  |    HTML    |   使用非图灵完备语言    |
 | [xsap](https://github.com/InvoluteHell/HelloWorldContest/blob/master/xsap) | 11 Bytes  |   Shell    |     有字母`r`和`l`      |
 | [bclswl0827](https://github.com/InvoluteHell/HelloWorldContest/tree/master/bclswl0827) | 25 Bytes  | JavaScript |        有字母`o`        |
