@@ -4,6 +4,22 @@
 
 
 
+## Arn
+
+另一款小众语言
+
+https://github.com/ZippyMagician/Arn
+
+在线运行 https://zippymagician.github.io/Arn/
+
+### 5.arn
+
+```Arn
+'yt bs
+```
+
+
+
 ## Stuck
 
 都用小众语言是吧？那俺也来一个Stuck语言，这玩意也是图灵完备的
@@ -28,7 +44,7 @@ https://github.com/kade-robertson/stuck
 
 ### 4.stk
 
-如果3号不符合要求的话，那就试试这个吧，b64解码
+如果3号不行的话，那就试试这个吧，b64解码
 
 ```
 "SGVsbG8gd29ybGQ=" B
