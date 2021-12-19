@@ -71,6 +71,14 @@ https://github.com/InvoluteHell/HelloWorldContest/issues/4
 
 > 要求使用平庸的编译/执行命令，除平庸部分外，其余将会统计到总的体积中
 
+### 为什么我无法正常 clone 这个仓库？
+
+之前有参赛选手尝试在文件名中包含一些信息，导致 Windows 下转义出错，请尝试附加`depth`参数进行 clone
+```bash
+git clone git@github.com:InvoluteHell/HelloWorldContest.git --depth=1
+```
+若再有提交导致仓库异常，我会视情况强制 重命名/删除 文件
+
 ### 其他问题
 
 欢迎加 QQ 群 672372860，或通过 ISSUE 讨论！
