@@ -56,6 +56,7 @@ Print "Hello World" without HELLOWORLD
 | [MistEO](https://github.com/InvoluteHell/HelloWorldContest/tree/master/MistEO) |  0 Bytes  |    B-K     |    使用刚诞生的语言     |
 | [Brx86](https://github.com/InvoluteHell/HelloWorldContest/tree/master/Brx86) | 10 Bytes  |   Shell    |   使用刚搭建的服务器    |
 | [MistEO](https://github.com/InvoluteHell/HelloWorldContest/tree/master/MistEO) | 11 Bytes  |   Shell    |    从文件名读取信息     |
+| [bakashigure](https://github.com/InvoluteHell/HelloWorldContest/tree/master/bakashigure/stuck) | 11 Bytes | Stuck | 使用非平庸命令 |
 | [Hagb](https://github.com/InvoluteHell/HelloWorldContest/tree/master/Hagb) | 11 Bytes  |   Shell    |    从文件名读取信息     |
 | [Hagb](https://github.com/InvoluteHell/HelloWorldContest/blob/master/Hagb) | 27 Bytes  |   Shell    |   使用刚搭建的服务器    |
 | [於随仙](https://github.com/InvoluteHell/HelloWorldContest/blob/master/%E6%96%BC%E9%9A%8F%E4%BB%99) | 30 Bytes  |   MATLAB   |   输出非`Hello World`   |
